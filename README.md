@@ -9,4 +9,6 @@ Try these steps if Office won’t activate:
 cscript ospp.vbs /act
 ```
 > **Pro Tip:** Activation fails often due to outdated software or wrong account.
-office-license-activation-troubleshooter
+---
+[Read more](https://github.com/winoff-master/)
+---
